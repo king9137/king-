@@ -1,0 +1,15 @@
+Pkg update 
+Pkg upgrade
+Apt upgrad
+Apt update
+Pkg install python
+Pkg install python2
+Pkg install python3
+Pkg install git 
+Pkg install ssh
+Pkg install php
+Git clone https://github.com/thewhiteh4t/seeker
+Cd seeker 
+Bash install.sh
+Python3 seeker.py -t manual
+Ngrok http 8080
